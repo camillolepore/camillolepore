@@ -1,4 +1,4 @@
-### Olá! Eu sou o Camillo Lepore 🖐️
+## Olá! Eu sou o Camillo Lepore 🖐️
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillo-lepore-243346131/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQcAzopvY5_2WeGrGTTu4vg/)
@@ -6,7 +6,7 @@
 
 ![Camillo GitHub stats](https://github-readme-stats.vercel.app/api?username=camillolepore&show_icons=true&theme=dracula)
 
-### Tecnologias que uso no meu dia e estou estudando!
+## Tecnologias que uso no meu dia e estou estudando!
 
 <div style="display: inline_block"></br>
 <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
