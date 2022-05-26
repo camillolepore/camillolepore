@@ -1,4 +1,9 @@
-## Olá! Eu sou o Camillo Lepore 🖐️
+## ✨Olá, eu sou o Camillo Lepore. Seja bem-vindo(a)! 🖐️
+
+✔️ Designer Gráfico.<br/>
+✔️ Video Maker.<br/>
+✔️ Estudando programação atualmente.<br/>
+
 
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/camillo-lepore-243346131/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQcAzopvY5_2WeGrGTTu4vg/)
